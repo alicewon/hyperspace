@@ -9,8 +9,10 @@ const Introduction = () =>
         Frontend Developer in Seattle, WA
         <br />
         Find me on {' '}
-        <a href="https://github.com/alicewon">Github</a> or 
-        <a href="https://www.linkedin.com/in/alicewon4/"> Linkedin</a>.
+        <a href="https://github.com/alicewon">Github</a> , 
+        <a href="https://www.linkedin.com/in/alicewon4/"> Linkedin</a>, or
+        <a href="https://medium.com/@alicewon4"> Medium</a>
+      
       </p>
       <ul className="actions">
         <li>
