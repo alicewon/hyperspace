@@ -11,7 +11,7 @@ const Features = () => {
     {
       href: '/#',
       image: pic1,
-      heading: 'Sed ipsum dolor',
+      heading: 'Skills',
       description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
       to: {
         href: '/generic',
@@ -21,23 +21,23 @@ const Features = () => {
     {
       href: '/#',
       image: pic2,
-      heading: 'Feugiat consequat',
+      heading: 'About',
       description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
       to: {
         href: '/generic',
         label: 'Learn more',
       },
     },
-    {
-      href: '/#',
-      image: pic3,
-      heading: 'Ultricies aliquam',
-      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
-      to: {
-        href: '/generic',
-        label: 'Learn more',
-      },
-    },
+    // {
+    //   href: '/#',
+    //   image: pic3,
+    //   heading: 'About',
+    //   description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+    //   to: {
+    //     href: '/generic',
+    //     label: 'Learn more',
+    //   },
+    // },
   ];
 
   const [features] = React.useState(FEATURES);

@@ -4,13 +4,13 @@ import Scroll from '../common/Scroll';
 const Introduction = () =>
   <section id="intro" className="wrapper style1 fullscreen fade-up">
     <div className="inner">
-      <h1>Hyperspace</h1>
+      <h1>Alice Won</h1>
       <p>
-        Just another fine responsive site template designed by{' '}
-        <a href="http://html5up.net">HTML5 UP</a>
+        Frontend Developer in Seattle, WA
         <br />
-        and released for free under the{' '}
-        <a href="http://html5up.net/license">Creative Commons</a>.
+        Find me on {' '}
+        <a href="https://github.com/alicewon">Github</a> or 
+        <a href="https://www.linkedin.com/in/alicewon4/"> Linkedin</a>.
       </p>
       <ul className="actions">
         <li>

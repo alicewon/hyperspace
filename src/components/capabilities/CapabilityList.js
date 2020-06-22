@@ -5,22 +5,22 @@ import Capability from './Capability';
 const CapabilityList = () => {
   const CAPABILITIES = [
     {
-      heading: 'Lorem ipsum amet',
+      heading: 'Capsule Closet',
       description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
       iconClass: 'fa-code',
     },
     {
-      heading: 'Morem ipsum amet',
+      heading: 'Accountabud',
       description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
       iconClass: 'fa-lock',
     },
     {
-      heading: 'Dorem ipsum amet',
+      heading: 'Pixionary',
       description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
       iconClass: 'fa-cog',
     },
     {
-      heading: 'Forem ipsum amet',
+      heading: 'Gardenizer',
       description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
       iconClass: 'fa-desktop',
     },
