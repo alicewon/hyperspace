@@ -4,7 +4,7 @@ import Scroll from '../common/Scroll';
 const Introduction = () =>
   <section id="intro" className="wrapper style1 fullscreen fade-up">
     <div className="inner">
-      <h1>Alice Won</h1>
+      <h1>Howdy, I'm Alice Won</h1>
       <p>
         Frontend Developer in Seattle, WA
         <br />

@@ -11,7 +11,7 @@ const Features = () => {
     {
       href: '/#',
       image: pic1,
-      heading: 'Skills',
+      heading: 'Capsule Closet',
       description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
       to: {
         href: '/generic',
@@ -21,29 +21,40 @@ const Features = () => {
     {
       href: '/#',
       image: pic2,
-      heading: 'About',
+      heading: 'Accountabud',
       description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
       to: {
         href: '/generic',
         label: 'Learn more',
       },
     },
-    // {
-    //   href: '/#',
-    //   image: pic3,
-    //   heading: 'About',
-    //   description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
-    //   to: {
-    //     href: '/generic',
-    //     label: 'Learn more',
-    //   },
-    // },
+
+    {
+      href: '/#',
+      image: pic3,
+      heading: 'Pixionary',
+      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      to: {
+        href: '/generic',
+        label: 'Learn more',
+      },
+    },
+    {
+      href: '/#',
+      image: pic3,
+      heading: 'Gardenizer',
+      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      to: {
+        href: '/generic',
+        label: 'Learn more',
+      },
+    },
   ];
 
   const [features] = React.useState(FEATURES);
 
   return (
-    <section id="one" className="wrapper style2 spotlights">
+    <section id="two" className="wrapper style1 spotlights">
        {features.map(feature => <Feature key={feature.heading} {...feature} />)}
     </section>
   );

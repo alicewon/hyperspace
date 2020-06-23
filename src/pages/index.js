@@ -15,8 +15,9 @@ const IndexPage = () =>
 
     <div id="wrapper">
       <Introduction />
-      <Features />
+      
       <Capabilities />
+      <Features />
       <Contact />
     </div>
 

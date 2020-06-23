@@ -2,19 +2,23 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 import CapabilityList from './CapabilityList';
+import SkillsGrid from './SkillsGrid';
 
 const Capabilities = () =>
-  <section id="two" className="wrapper style3 fade-up">
+  <section id="one" className="wrapper style3 fade-up">
     <div className="inner">
-      <h2>Technical Projects</h2>
+      <h2>Skills</h2>
       <p>
         Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
         turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
         lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
         imperdiet est velit quis lorem.
       </p>
+      <SkillsGrid/>
+      
+
       <div className="features">
-        <CapabilityList />
+        {/* <CapabilityList /> */}
       </div>
       <ul className="actions">
         <li>
