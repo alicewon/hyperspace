@@ -1,5 +1,6 @@
 import React from 'react';
-import Scroll from '../common/Scroll';
+// import Scroll from '../common/Scroll';
+import { Link } from 'gatsby';
 
 const Introduction = () =>
   <section id="intro" className="wrapper style1 fullscreen fade-up">
@@ -16,11 +17,14 @@ const Introduction = () =>
       </p>
       <ul className="actions">
         <li>
-          <Scroll type="id" element="one">
-            <a href="#one" className="button">
-              Learn more
+          {/* <Scroll type="id" element="one">
+            <a href="https://drive.google.com/file/d/1s4ydcEEQAKi-zrToL4Ba5h1xyAiv6zyu/view?usp=sharing" target="_blank" className="button">
+              Resume
             </a>
-          </Scroll>
+          </Scroll> */}
+          <Link className="button" to="https://drive.google.com/file/d/1EHhFoYP0_-j9G01X5dJ1bliXIQmTRW_w/view?usp=sharing" target="_blank">
+            Resume
+          </Link>
         </li>
       </ul>
     </div>
