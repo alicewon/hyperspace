@@ -480,47 +480,47 @@ const SecondPage = () => (
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic01.jpg" alt="" />
+                    <img src="images/capsule.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic02.jpg" alt="" />
+                    <img src="images/accountabudmobile.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic03.jpg" alt="" />
+                    <img src="images/gardens.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic03.jpg" alt="" />
+                    <img src="images/gardens.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic01.jpg" alt="" />
+                    <img src="images/capsule.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic02.jpg" alt="" />
+                    <img src="images/accountabudmobile.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic02.jpg" alt="" />
+                    <img src="images/accountabudmobile.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic03.jpg" alt="" />
+                    <img src="images/gardens.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/pic01.jpg" alt="" />
+                    <img src="images/capsule.jpg" alt="" />
                   </span>
                 </div>
               </div>
