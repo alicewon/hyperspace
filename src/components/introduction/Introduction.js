@@ -1,13 +1,15 @@
 import React from 'react';
 // import Scroll from '../common/Scroll';
 import { Link } from 'gatsby';
+import ContactInformation from '../Contact/ContactInformation'; 
 
 const Introduction = () =>
   <section id="intro" className="wrapper style1 fullscreen fade-up">
     <div className="inner">
-      <h1>Howdy, I'm Alice Won</h1>
+      <h1>Howdy, I'm Alice Won 🤠</h1>
+      
       <p>
-        Frontend Developer in Seattle, WA
+        Frontend Developer originally from Dallas, TX. Currently living in Seattle, WA
         <br />
         Find me on {' '}
         <a href="https://github.com/alicewon">Github</a> , 
@@ -15,6 +17,7 @@ const Introduction = () =>
         <a href="https://medium.com/@alicewon4"> Medium</a>
       
       </p>
+      
       <ul className="actions">
         <li>
           {/* <Scroll type="id" element="one">
@@ -26,7 +29,9 @@ const Introduction = () =>
             Resume
           </Link>
         </li>
+        
       </ul>
+      <ContactInformation/>
     </div>
   </section>
 

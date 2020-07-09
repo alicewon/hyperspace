@@ -8,25 +8,25 @@ const Capabilities = () =>
   <section id="one" className="wrapper style3 fade-up">
     <div className="inner">
       <h2>Skills</h2>
-      <p>
+      {/* <p>
         Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
         turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
         lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
         imperdiet est velit quis lorem.
-      </p>
+      </p> */}
       <SkillsGrid/>
       
 
       <div className="features">
         {/* <CapabilityList /> */}
       </div>
-      <ul className="actions">
+      {/* <ul className="actions">
         <li>
           <Link className="button" to="/generic">
             Learn more
           </Link>
         </li>
-      </ul>
+      </ul> */}
     </div>
   </section>
 
