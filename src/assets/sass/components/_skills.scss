@@ -4,21 +4,21 @@
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(5, 1fr);
-  grid-row-gap: 20px;
+  grid-row-gap: 40px;
   width: 80%;
+  margin: 0 auto;
 }
 
-.skills{
-  border: solid 1px black;
-  justify-content: center;
-  align-items: center;
+.skill{
+  text-align: center;
 }
 
 #icon {
-  font-size: 5rem;
-  text-align: center;
+  font-size: 4rem;
+
 }
 
 .skillname {
-  text-align: center;
+  margin-top: 10px;
+  font-size: .9rem;
 }
