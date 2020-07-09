@@ -76,7 +76,7 @@ const SkillsGrid = () =>{
 
       <div className="skill">
         {/* <i id="icon" class="devicon-amazonwebservices-original"></i> */}
-        <img src="https://image.flaticon.com/icons/svg/65/65381.svg" width="80" height="80" alt="Responsive design symbol free icon" title="Responsive design symbol free icon"></img>
+        <img src="https://image.flaticon.com/icons/svg/65/65381.svg" width="80" height="80" alt="Responsive design symbol icon"></img>
         <h3 className="skillname">Responsive Design</h3>
       </div>
 
