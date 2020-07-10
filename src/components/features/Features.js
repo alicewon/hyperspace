@@ -2,8 +2,8 @@ import React from 'react';
 
 import pic1 from '../../images/capsule.jpg';
 import pic2 from '../../images/accountabudmobile.jpg';
-import pic4 from '../../images/pic03.jpg';
-import pic3 from '../../images/gardens.jpg';
+import pic4 from '../../images/pixionary.jpg';
+import pic3 from '../../images/gardenizer.jpg';
 
 import Feature from './Feature';
 

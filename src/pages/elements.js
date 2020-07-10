@@ -490,12 +490,12 @@ const SecondPage = () => (
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/gardens.jpg" alt="" />
+                    <img src="images/gardenizer.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/gardens.jpg" alt="" />
+                    <img src="images/gardenizer.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
@@ -515,7 +515,7 @@ const SecondPage = () => (
                 </div>
                 <div class="col-4">
                   <span class="image fit">
-                    <img src="images/gardens.jpg" alt="" />
+                    <img src="images/gardenizer.jpg" alt="" />
                   </span>
                 </div>
                 <div class="col-4">
