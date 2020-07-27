@@ -1,7 +1,7 @@
 import React from 'react';
 // import Scroll from '../common/Scroll';
 import { Link } from 'gatsby';
-import ContactInformation from '../Contact/ContactInformation'; 
+
 
 const Introduction = () =>
   <section id="intro" className="wrapper style1 fullscreen fade-up">
@@ -31,7 +31,6 @@ const Introduction = () =>
         </li>
         
       </ul>
-      <ContactInformation/>
     </div>
   </section>
 
